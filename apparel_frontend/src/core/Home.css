@@ -1,0 +1,7 @@
+.background {
+    font-style: italic;
+    background-color: #FF9A8B;
+    background-image: linear-gradient(90deg, #FF9A8B 0%, #1a0107 55%, #FF99AC 100%);
+
+    height: 100%;
+}
