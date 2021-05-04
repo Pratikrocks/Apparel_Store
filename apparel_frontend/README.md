@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Follow the below commands
 
-### cd apparel_frontend
+### `cd apparel_frontend`
 
-### npm install
+### `npm install`
 
 ### `npm start`
 
