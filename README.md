@@ -7,7 +7,7 @@ To Test This Project
 
 For a detailed description of the frontend and backend visit their respective Readme.md([Frontend](apparel_frontend/README.md) , [Backend](apparel_backend/README.md))
 
-Frontend Oveview
+## Frontend Oveview
 
 Home Page
 
